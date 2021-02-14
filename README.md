@@ -25,6 +25,7 @@
 - [projectium.network](https://projectium.network/)
 ### r
 - [rapidr.io](https://rapidr.io/)
+- [robinhood](https://robinhood.com/us/en/)
 ### s
 ### t
 ### u
