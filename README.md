@@ -39,3 +39,13 @@
 
 ## Landing page Template
 - [cruip](https://cruip.com/)
+
+## Open-Source Template
+- [startbootstrap-landing-page](https://github.com/StartBootstrap/startbootstrap-landing-page)
+- [startbootstrap-new-age](https://github.com/StartBootstrap/startbootstrap-new-age)
+
+## TailwindCSS
+## ToolBox
+- [TailwindToolbox](https://www.tailwindtoolbox.com/)
+### Open-source
+- [Landing-Page](https://github.com/tailwindtoolbox/Landing-Page)
