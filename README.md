@@ -50,6 +50,10 @@
 ## Cool Site
 - [Straw.page](https://straw.page/)
 
+## Awesome WebApp
+- [nomadlist](https://nomadlist.com/)
+- [remoteok.io](https://remoteok.io/)
+
 ## Landing page Template
 - [cruip](https://cruip.com/)
 
