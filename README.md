@@ -1,6 +1,5 @@
 # awesome-landing-page
 
-
 ### a
 ### b
 - [basecamp](https://basecamp.com/) 🔥
@@ -37,6 +36,9 @@
 ### x
 ### y
 ### z
+
+# Pricing page
+- [ellevest]()https://www.ellevest.com/pricing-plans
 
 ### nice simple site
 - [bitcoinorshit.com](https://bitcoinorshit.com/)
