@@ -5,9 +5,10 @@
 - [basecamp](https://basecamp.com/) 🔥
 - [bkmark.io](https://bkmark.io/)
 ### c
-- [collect.space](https://collecta.space/)
+- [cliniko](https://www.cliniko.com/)
+- [collect.space](https://collecta.space/) 🔥
 ### d
-- [displaybuddy.app](https://displaybuddy.app/)
+- [displaybuddy.app](https://displaybuddy.app/) 🔥
 - [dive.chat](https://dive.chat/index.html)
 ### e
 ### f
