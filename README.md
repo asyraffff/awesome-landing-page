@@ -45,6 +45,7 @@
 
 ## nice simple site
 - [bitcoinorshit.com](https://bitcoinorshit.com/)
+- [nomoregoogle](https://nomoregoogle.com/)
 
 ## Cool Site
 - [Straw.page](https://straw.page/)
