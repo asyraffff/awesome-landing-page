@@ -42,8 +42,11 @@
 # Pricing page
 - [ellevest]()https://www.ellevest.com/pricing-plans
 
-### nice simple site
+## nice simple site
 - [bitcoinorshit.com](https://bitcoinorshit.com/)
+
+## Cool Site
+- [Straw.page](https://straw.page/)
 
 ## Landing page Template
 - [cruip](https://cruip.com/)
