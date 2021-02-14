@@ -29,6 +29,7 @@
 - [rapidr.io](https://rapidr.io/)
 - [robinhood](https://robinhood.com/us/en/)
 ### s
+- [spike email](https://www.spikenow.com/) 🔥
 ### t
 ### u
 ### v
