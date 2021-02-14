@@ -32,6 +32,7 @@
 ### u
 ### v
 ### w
+- [wealthfront](https://www.wealthfront.com/) 🔥
 - [wealthsimple](https://www.wealthsimple.com/en-ca/)
 ### x
 ### y
