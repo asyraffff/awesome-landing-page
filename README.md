@@ -5,6 +5,7 @@
 - [basecamp](https://basecamp.com/) 🔥
 - [bkmark.io](https://bkmark.io/)
 ### c
+- [census](https://www.getcensus.com/)
 - [cliniko](https://www.cliniko.com/)
 - [collect.space](https://collecta.space/) 🔥
 ### d
