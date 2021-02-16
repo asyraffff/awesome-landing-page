@@ -32,6 +32,7 @@
 - [rapidr.io](https://rapidr.io/)
 - [robinhood](https://robinhood.com/us/en/)
 ### s
+- [solidus.io](https://solidus.io/)
 - [spike email](https://www.spikenow.com/) 🔥
 ### t
 - [turnshift.app](https://turnshift.app/)
