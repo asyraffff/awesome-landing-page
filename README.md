@@ -61,6 +61,7 @@
 
 ## `Cool Site`
 - [Straw.page](https://straw.page/)
+- [mailoji.com](https://mailoji.com/)
 
 ---
 
