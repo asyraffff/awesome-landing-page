@@ -62,6 +62,7 @@
 ## `Cool Site`
 - [Straw.page](https://straw.page/)
 - [mailoji.com](https://mailoji.com/)
+- [bubblespop](https://bubblespop.netlify.app/)
 
 ---
 
