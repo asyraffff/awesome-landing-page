@@ -11,6 +11,7 @@
 ### d
 - [displaybuddy.app](https://displaybuddy.app/) 🔥
 - [dive.chat](https://dive.chat/index.html)
+- [dixa.com](https://www.dixa.com/)
 ### e
 ### f
 ### g
