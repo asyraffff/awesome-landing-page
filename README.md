@@ -46,29 +46,43 @@
 ### y
 ### z
 
-# Pricing page
+---
+
+# `Pricing page`
 - [ellevest]()https://www.ellevest.com/pricing-plans
 
-## nice simple site
+---
+
+## `nice simple site`
 - [bitcoinorshit.com](https://bitcoinorshit.com/)
 - [nomoregoogle](https://nomoregoogle.com/)
 
-## Cool Site
+---
+
+## `Cool Site`
 - [Straw.page](https://straw.page/)
 
-## Awesome WebApp
+---
+
+## `Awesome WebApp`
 - [nomadlist](https://nomadlist.com/)
 - [remoteok.io](https://remoteok.io/)
 
-## Landing page Template
+---
+
+## `Landing page Template`
 - [cruip](https://cruip.com/)
 
-## Open-Source Template
+---
+
+## `Open-Source Template`
 - [startbootstrap-landing-page](https://github.com/StartBootstrap/startbootstrap-landing-page)
 - [startbootstrap-new-age](https://github.com/StartBootstrap/startbootstrap-new-age)
 
-## TailwindCSS
-## ToolBox
+---
+
+## `TailwindCSS`
+#### ToolBox
 - [TailwindToolbox](https://www.tailwindtoolbox.com/)
-### Open-source
+#### Open-source
 - [Landing-Page](https://github.com/tailwindtoolbox/Landing-Page)
