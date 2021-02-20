@@ -1,6 +1,7 @@
 # awesome-landing-page
 
 ### a
+- [accord.so](https://accord.so/) 🔥
 ### b
 - [basecamp](https://basecamp.com/) 🔥
 - [bkmark.io](https://bkmark.io/)
