@@ -80,9 +80,11 @@
 
 ---
 
-## `Open-Source Template`
+## `Open-Source`
 - [startbootstrap-landing-page](https://github.com/StartBootstrap/startbootstrap-landing-page)
 - [startbootstrap-new-age](https://github.com/StartBootstrap/startbootstrap-new-age)
+- [awesome-landing-page](https://github.com/nordicgiant2/awesome-landing-page)
+- [landing-pages-resources](https://github.com/eibrahim/landing-pages-resources)
 
 ---
 
