@@ -33,6 +33,7 @@
 ### r
 - [rapidr.io](https://rapidr.io/)
 - [robinhood](https://robinhood.com/us/en/)
+- [rows.com](https://rows.com/)
 ### s
 - [solidus.io](https://solidus.io/)
 - [spike email](https://www.spikenow.com/) 🔥
